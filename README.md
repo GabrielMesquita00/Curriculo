@@ -11,7 +11,7 @@ Conhecimentos Básicos
  - HTML e CSS
  - Sistema de controle de versão (Git) 
  - Fases do desenvolvimento de um sistema 
- - Adquirindo conhecimentos em Javascript
+ - Adquirindo conhecimentos em Javascript e Python
 
 Tenho Inglês Intermediario 
 - Muito bom para leitura e escuta, mas ainda faltam melhorias
