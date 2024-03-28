@@ -13,9 +13,9 @@ Conhecimentos
  - Versionamento com git
  - Engenharia de Software
 
-Tenho Inglês Intermediario 
-- Muito bom para leitura e escuta
-- Razoável para conversação 
+Inglês Intermediario 
+- Bom para Writing
+- Razoável para Listening e Speaking 
 
 Formação 
 - Ensino médio completo em 2016 - Castello Branco 
