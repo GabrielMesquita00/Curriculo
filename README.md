@@ -10,8 +10,8 @@ Conhecimentos
  - Lógica de Programação com C# e .Net
  - MySQL- criação, edição, remoção e consulta de tabelas para análises
  - HTML e CSS
- - Sistema de controle de versão (Git)
- - Analises de requisitos
+ - Versionamento com git
+ - Engenharia de Software
 
 Tenho Inglês Intermediario 
 - Muito bom para leitura e escuta
