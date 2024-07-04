@@ -1,24 +1,27 @@
 # Gabriel Mesquita de Carvalho - Currículo
 
-Limeira-SP - 25 anos
+Olá, meu nome é Gabriel, tenho 25 anos e atualmente sou estudante e sou um grande entusiasta de Tecnologia. Iniciei minha carreira como aprendiz de TI, desenvolvendo habilidades em manutenção preventiva de hardware, incluindo computadores e notebooks. Ao longo do tempo, adquiri experiência em criação e gerenciamento de usuários no ambiente Windows, utilizando o Active Directory. Além disso, forneci suporte técnico eficiente para usuários de sistemas Windows e diversos softwares, garantindo a resolução rápida e eficaz de problemas. Destaco ainda minha habilidade em treinar e capacitar usuários de informática, contribuindo para aumentar a produtividade e a eficiência operacional da equipe. 
 
-Meu nome é Gabriel, tenho 25 anos e atualmente sou estudante de tecnologia na FATEC de Araras-SP. Tenho fascínio e curiosidade por tecnologia desde menino. Gosto de música,  fotografia e tudo que envolve cinema. 
-Possuo conhecimentos em C# e .Net, com uma boa lógica de programação e em constante evolução. Por ser iniciante, ainda não tenho projetos elaborados. Apenas exercícios matemáticos para reforçar meus raciocínios lógicos. Possuo conhecimentos em SQL, sabendo criar, editar, remover e consultar tabelas para análises. Tenho noções de Programação Orientada a Objeto e sei que um código limpo facilita sua manutenção e modificação, que acaba sendo benéfico para a colaboração de toda a equipe.
-E meu nível de inglês é intermediário para leitura e escrita.
-
-Conhecimentos 
- - Lógica de Programação com C# e .Net
- - MySQL- criação, edição, remoção e consulta de tabelas para análises
- - HTML e CSS
- - Versionamento com git
- - Engenharia de Software
-
-Inglês Intermediario 
-- Bom para Writing
-- Razoável para Listening e Speaking 
+Competências
+- Inglês Intermediário
+- Suporte técnico e atendimento ao usuário
+- Conhecimentos básicos em Redes de Computadores
+- Conhecimentos em Windows e Noções de Linux
+- Boa comunicação
+- Manutenção preventiva de Hardware
+- Lógica de Programação com C#
+- Modelagem de Banco de Dados 
+- MySQL- criação, edição, remoção e consulta de tabelas para análises
+- Versionamento com Git
+- Engenharia de Software
+- Design Digital
 
 Formação 
 - Ensino médio completo em 2016 - Castello Branco 
 - Técnico em Química 2018-2019 - ETEC Trajano Camargo
 - Técnico em Informática 2020-2021 - COTIL Unicamp
-- Desenvolvimento de Software Multiplataforma 2024-2026 - FATEC
+- Desenvolvimento de Software Multiplataforma 2024-2026 - FATEC (interrompido)
+- Bacharelado em Tecnologia da Informação 07/2024 - 07/2027 UNIVESP (cursando)
+
+Contato:
+E-mail: gabriel_mesquita512@outlook.com
