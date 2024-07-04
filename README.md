@@ -23,5 +23,5 @@ Formação
 - Desenvolvimento de Software Multiplataforma 2024-2026 - FATEC (interrompido)
 - Bacharelado em Tecnologia da Informação 07/2024 - 07/2027 UNIVESP (cursando)
 
-Contato:
-E-mail: gabriel_mesquita512@outlook.com
+
+E-mail para contato: gabriel_mesquita512@outlook.com
